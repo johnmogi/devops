@@ -1,0 +1,6 @@
+hi this shell is active
+check
+this
+out
+d
+1
