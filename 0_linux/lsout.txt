@@ -1,0 +1,28 @@
+total 0
+drwxr-xr-x   1 root root  160 Oct 10 09:14 .
+drwxr-xr-x   1 root root  160 Oct 10 09:14 ..
+lrwxrwxrwx   1 root root    7 Sep  6 08:50 bin -> usr/bin
+drwxr-xr-x   3 root root  168 Sep  6 08:50 boot
+drwxr-xr-x  18 root root 3740 Oct 10 09:29 dev
+drwxr-xr-x   1 root root  860 Oct 10 11:14 etc
+drwxr-xr-x   1 root root   60 Oct 10 09:14 home
+lrwxrwxrwx   1 root root   34 Sep  6 08:50 initrd.img -> boot/initrd.img-5.10.0-kali9-amd64
+lrwxrwxrwx   1 root root   34 Sep  6 08:50 initrd.img.old -> boot/initrd.img-5.10.0-kali9-amd64
+lrwxrwxrwx   1 root root    7 Sep  6 08:50 lib -> usr/lib
+lrwxrwxrwx   1 root root    9 Sep  6 08:50 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root    9 Sep  6 08:50 lib64 -> usr/lib64
+lrwxrwxrwx   1 root root   10 Sep  6 08:50 libx32 -> usr/libx32
+drwxr-xr-x   2 root root    3 Sep  6 08:50 media
+drwxr-xr-x   2 root root    3 Sep  6 08:50 mnt
+drwxr-xr-x   3 root root   32 Sep  6 08:50 opt
+dr-xr-xr-x 306 root root    0 Oct 10 09:14 proc
+drwx------   1 root root   60 Sep  6 08:50 root
+drwxr-xr-x  39 root root  960 Oct 10 09:14 run
+lrwxrwxrwx   1 root root    8 Sep  6 08:50 sbin -> usr/sbin
+drwxr-xr-x   3 root root   27 Sep  6 08:50 srv
+dr-xr-xr-x  13 root root    0 Oct 10 09:14 sys
+drwxrwxrwt  20 root root  460 Oct 10 11:39 tmp
+drwxr-xr-x   1 root root  100 Sep  6 08:50 usr
+drwxr-xr-x   1 root root  120 Sep  6 08:50 var
+lrwxrwxrwx   1 root root   31 Sep  6 08:50 vmlinuz -> boot/vmlinuz-5.10.0-kali9-amd64
+lrwxrwxrwx   1 root root   31 Sep  6 08:50 vmlinuz.old -> boot/vmlinuz-5.10.0-kali9-amd64
